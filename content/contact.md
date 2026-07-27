@@ -13,7 +13,7 @@ description: "Contact Laura M. Whitmore at the International Arctic Research Cen
     <div>
       <p class="ws-eyebrow">Laura M. Whitmore</p>
       <h2>Start a conversation.</h2>
-      <p>I am a Research Assistant Professor at the International Arctic Research Center, University of Alaska Fairbanks. Email is the best first point of contact, especially before sending samples, instruments, or freight.</p>
+      <p>I am a Research Assistant Professor at the International Arctic Research Center, University of Alaska Fairbanks. Email is the best first point of contact.</p>
     </div>
     <div class="ws-contact-primary">
       <p><strong>Email</strong></p>
@@ -33,7 +33,7 @@ description: "Contact Laura M. Whitmore at the International Arctic Research Cen
         <address>
           Laura M. Whitmore<br>
           International Arctic Research Center<br>
-          Syun-Ichi Akasofu Building<br>
+          Syun-Ichi Akasofu Building Suite 415<br>
           2160 Koyukuk Drive<br>
           Fairbanks, AK 99775-7340
         </address>
