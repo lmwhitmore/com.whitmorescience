@@ -16,5 +16,42 @@ aliases: ["/im-laura-whitmore/"]
       <div class="ws-contact"><p><strong>International Arctic Research Center · University of Alaska Fairbanks</strong></p><p><a href="mailto:lmwhitmore@alaska.edu">lmwhitmore@alaska.edu</a></p><p><a href="/contact/">Contact, address, and shipping information</a></p></div>
     </div>
   </section>
-  <section class="ws-page-block"><h2>Selected experience</h2><div class="ws-project-grid"><article class="ws-project"><h3>Leadership</h3><p>Ocean Decade Early Career Ocean Professional representative for GEOTRACES (2020–2023) </p></article><article class="ws-project"><h3>Recognition</h3><p>USM Graduate Student Hall of Fame and USM College of Science and Technology Marine Science Scholar.</p></article></div></section>
+
+<section class="ws-page-block">
+  <h2>Technical experience</h2>
+
+  <div class="ws-project-grid">
+    <article class="ws-project">
+      <h3>Analytical chemistry</h3>
+      <ul>
+        <li>Picarro CRDS</li>
+        <li>ICP-MS</li>
+        <li>seaFAST preconcentration</li>
+        <li>EA-IRMS</li>
+        <li>Gas chromatography</li>
+      </ul>
+    </article>
+
+    <article class="ws-project">
+      <h3>Data and interpretation</h3>
+      <ul>
+        <li>R</li>
+        <li>GitHub</li>
+        <li>Ocean Data View</li>
+        <li>Ocean Data Quality Assurance</li>
+        <li>Geochemical Tracer Interpretation</li>
+        <li>Collaborative Data Synthesis</li>
+      </ul>
+    </article>
+  </div>
+</section>
+</div>
+
+  <section class="ws-page-block">
+  <h2>Selected experience</h2>
+  <div class="ws-project-grid">
+  <article class="ws-project">
+  <h3>Leadership</h3>
+  <p>Ocean Decade Early Career Ocean Professional representative for GEOTRACES (2020–2023) </p>
+  </article><article class="ws-project"><h3>Recognition</h3><p>USM Graduate Student Hall of Fame and USM College of Science and Technology Marine Science Scholar.</p></article></div></section>
 </div>
